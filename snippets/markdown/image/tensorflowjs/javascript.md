@@ -1,7 +1,7 @@
 Learn more about how to use the code snippet on [github](https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image).
 
 ```html
-<div>Teachable Machine Image Model</div>
+<div>Teachable Machine AI Project 1</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
